@@ -2,4 +2,4 @@
 export const API_KEY = 'AIzaSyAM_hrbmmaqiUR9ferd_O7qcPLXy1wgcUk';
 
 // Context Key - https://cse.google.com/cse/create/new
-export const CONTEXT_KEY = 'd932dc9c5869f7bd0';
+export const CONTEXT_KEY = '700a13d26c36a937e';

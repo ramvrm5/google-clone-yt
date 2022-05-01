@@ -38,7 +38,7 @@ function Header() {
                     <SearchIcon className="h-6 text-blue-500 hidden sm:inline-flex" />
                     <button hidden type="submit" onClick={search}>Search</button>
                 </form>
-                <Avatar className="ml-auto" url="https://lh3.googleusercontent.com/ogw/ADea4I7t7mLEiFEqNRi3F7X_b_lSVX_94_OWvDjLofab8g=s200-c-mo" />
+                <Avatar className="ml-auto" url="https://lh3.googleusercontent.com/ogw/ADea4I6O8kkcsV8QCSBsShM11Zaly5jxLJQBbT22Gh1w6w=s250-c-mo" />
             </div>
 
             {/* HeaderOptions */}
