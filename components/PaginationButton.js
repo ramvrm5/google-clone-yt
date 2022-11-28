@@ -5,7 +5,6 @@ import { ChevronLeftIcon, ChevronRightIcon } from '@heroicons/react/solid';
 
 function PaginationButton() {
     const router = useRouter();
-
     const startIndex = Number(router.query.start) || 0;
     return (
         <div className="flex justify-between max-w-lg text-blue-700">
